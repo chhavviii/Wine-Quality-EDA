@@ -6,6 +6,10 @@
  -  **Dataset:** Wine Quality Dataset
  -  **Objective:** Analyze, preprocess, and apply Machine Learning models for classification
 
+## 🛠 Technologies Used
+  - **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, XGBoost)
+  - **Jupyter Notebook** for interactive analysis
+    
 ## 📊 Exploratory Data Analysis (EDA)
  - Visualized data distributions and correlations.
  - Data visualization using histograms, pair plots, box plots, and correlation heatmaps
@@ -34,10 +38,6 @@
   - Random Forest and XGBoost performed the best in classification tasks with high accuracy 
     scores.
   - Hyperparameter tuning improved model performance.
-
- ## 🛠 Technologies Used
-  - **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, XGBoost)
-  - **Jupyter Notebook** for interactive analysis
 
  ## 📂 Repository
   - `STATS.ipynb` 
