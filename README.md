@@ -5,7 +5,6 @@
 ## 📌 Project Overview
  -  **Dataset:** Wine Quality Dataset
  -  **Objective:** Analyze, preprocess, and apply Machine Learning models for classification
- -  **Tools Used:**  Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
 
 ## 📊 Exploratory Data Analysis (EDA)
  - Visualized data distributions and correlations.
